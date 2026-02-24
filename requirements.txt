@@ -1,0 +1,10 @@
+rank_bm25
+pdfplumber
+faiss-cpu
+sentence-transformers
+fastapi
+uvicorn
+groq
+python-dotenv
+python-multipart
+slowapi
